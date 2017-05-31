@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue">#0439e9</color>
+    <color name="dark_deep_bluew">#1a1d53</color>
+    <color name="colorPrimary">#77cf2e</color>
+    <color name="colorPrimaryDark">#57b62e</color>
+    <color name="colorPrimary2">#d9a761</color>
+    <color name="colorPrimaryDark2">#ff8503</color>
+    <color name="colorAccent">#303030</color>
+    <item name="blue" type="color">#0264b5</item>
+    <item name="purple" type="color">#e71ad3</item>
+    <item name="green" type="color">#26a300</item>
+    <item name="orange" type="color">#fd941c</item>
+    <item name="red" type="color">#ca3237</item>
+    <item name="indigo" type="color">#3f51b5</item>
+    <item name="deep_blue" type="color">#673ab7</item>
+    <item name="light_green" type="color">#7cd92b</item>
+    <item name="teal" type="color">#009688</item>
+    <item name="pink" type="color">#f111cb</item>
+    <item name="yellow" type="color">#e7e711</item>
+    <item name="pure_red" type="color">#e61111</item>
+    <item name="light_blue" type="color">#24c6dc</item>
+    <item name="negro" type="color">#030303</item>
+    <item name="grey_ligth" type="color">#d3f3f3f3</item>
+    <item name="grey_2" type="color">#777777</item>
+    <item name="verde_logo" type="color">#8dcd24</item>
+    <item name="white" type="color">#9bffffff</item>
+
+
+    <integer-array name="initial_colors">
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/indigo</item>
+        <item>@color/deep_blue</item>
+        <item>@color/light_blue</item>
+        <item>@color/light_green</item>
+        <item>@color/teal</item>
+        <item>@color/pink</item>
+        <item>@color/yellow</item>
+        <item>@color/pure_red</item>
+        <item>@color/dark_blue</item>
+        <item>@color/dark_deep_bluew</item>
+        <item>@color/white</item>
+        <item>@color/grey_ligth</item>
+        <item>@color/grey_2</item>
+        <item>@color/verde_logo</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary2</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark2</item>
+        <item>@color/white</item>
+
+    </integer-array>
+
+</resources>
